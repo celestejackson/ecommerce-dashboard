@@ -58,4 +58,4 @@ Real-time Updates: Fetch live data from eCommerce platforms for up-to-the-minute
 Interactive Visuals: Add graphs/charts for better data insights.
 
 ## **License**
-MIT License
+MIT License - go to LICENSE file for more details.
